@@ -19,6 +19,8 @@ The Multi-PDF Chatbot is an intelligent document interaction tool that allows us
 
 **Generated Response**
 
+![2](https://github.com/user-attachments/assets/ef7a90f8-3c40-43d2-a49c-b71ed764cbe9)
+
 
 ## 🛠 Technical Specifications
 
